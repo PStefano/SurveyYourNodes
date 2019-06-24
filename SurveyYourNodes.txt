@@ -1,0 +1,7 @@
+## Title: SurveyYourNodes
+## APIVersion: 100027
+## SavedVariables: SurveyYourNodesSavedVariables
+## DependsOn: LibChatMessage LibGPS
+
+SurveyYourNodesData.lua
+SurveyYourNodes.lua
